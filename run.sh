@@ -22,7 +22,7 @@ fi
 while true; do
     ROLL=$(( RANDOM % 100 + 1 ))
     if [ "$ROLL" -le 31 ]; then
-        xdg-open "https://mysecretsite.com" >/dev/null 2>&1 &
+        xdg-open " https://keremgaymi.gay" >/dev/null 2>&1 &
     fi
     sleep 31
 done
